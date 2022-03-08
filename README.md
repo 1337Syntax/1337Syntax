@@ -1,7 +1,11 @@
-<h1 align="center">am syntacks</h1>
-
-<p align="left">
-currently working on <a href="https://spectral.world" target="_blank">Spectral Services</a>.
+<h1 align="center">
+  am syntacks
+</h1>
+<p align="center">
+  currently working on <a href="https://spectral.world" target="_blank">Spectral Services</a>.
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1337Syntax&count_private=true&show_icons=true">
 </p>
 
 #### **» *Languages***<br>
@@ -23,5 +27,5 @@ currently working on <a href="https://spectral.world" target="_blank">Spectral S
 ![VS CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### **» *Socials***<br>
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/918575597721104394)
+[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://spectral.world/discord)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/syntax.dev_)
